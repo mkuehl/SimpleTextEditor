@@ -1,4 +1,4 @@
-package simpletexteditor.s_base.de.friesen.example.simpletexteditor;
+package simpletexteditor.s_complete.de.friesen.example.simpletexteditor;
 
 import org.eclipse.swt.custom.StyledText;
 import java.io.File;
