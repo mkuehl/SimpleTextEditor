@@ -1,4 +1,4 @@
-package simpletexteditor.m_base.de.friesen.example.simpletexteditor;
+package simpletexteditor.m_complete.de.friesen.example.simpletexteditor;
 
 import java.io.BufferedReader;
 import java.io.File;

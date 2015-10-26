@@ -1,4 +1,4 @@
-package simpletexteditor.m_base.de.friesen.example.simpletexteditor;
+package simpletexteditor.m_complete.de.friesen.example.simpletexteditor;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.widgets.Listener;
