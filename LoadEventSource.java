@@ -1,4 +1,4 @@
-package simpletexteditor.s_complete.de.friesen.example.simpletexteditor;
+package simpletexteditor.m_base.de.friesen.example.simpletexteditor;
 
 import java.util.ArrayList;
 import java.util.List;
